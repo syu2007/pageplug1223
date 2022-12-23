@@ -1,0 +1,25 @@
+{
+  "unpublishedCollection": {
+    "name": "legstatus",
+    "pageId": "mainpage",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n\tmyVar1: [],\n\tmyVar2: {},\n\tmyFun1: () => {\n\t\t{{return \"正常\";\n        }}\n\t},\n\n}",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "mainpage_legstatus",
+  "deleted": false,
+  "gitSyncId": "63a55ffa47bf4d0bbd8414de_63a579c047bf4d0bbd8414f6"
+}
